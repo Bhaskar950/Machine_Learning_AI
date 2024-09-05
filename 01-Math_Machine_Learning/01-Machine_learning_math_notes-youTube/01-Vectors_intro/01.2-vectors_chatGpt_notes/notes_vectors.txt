@@ -1,0 +1,11 @@
+https://chatgpt.com/share/91b023b5-27f4-4db3-a1cd-8eb61232b91b
+
+
+
+i am learning linear algebra to pursue ml i will mention some topics related to vectors ...what is the vectors,vectors in R n , vector algebra,linear combination of vectors , linear independent and dependent vectors orthogonal vectors,example of feature vectors I need very basic to advanced with application...in future I will attention ,comprehension,recall , and apply applications in ml projects 
+
+
+
+i am learning linear algebra to pursue ml i will mention some topics related to vectors ...what is the vectors,vectors in R n , vector algebra,linear combination of vectors , linear independent and dependent vectors orthogonal vectors,example of feature vectors I need very basic to advanced with application...in future I will attention ,comprehension,recall , and apply applications in ml projects ...i write this I need best script to get best notes topics may change I need also practical example with real data give me example with numpy with real data.
+
+give me an example with real data for all the above topics with numpy
