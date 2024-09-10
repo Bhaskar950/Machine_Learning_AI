@@ -1,0 +1,141 @@
+Here’s a 10-day NumPy schedule aligned with the Linear Algebra course from DeepLearning.AI. This will allow you to practice NumPy while learning linear algebra concepts in parallel.
+
+Day 1: NumPy Basics and Arrays
+Topics:
+Introduction to NumPy arrays.
+Array creation (1D, 2D, n-dimensional arrays).
+Array indexing and slicing.
+Basic array operations (addition, subtraction, multiplication, division).
+Practice:
+Create vectors and matrices using NumPy.
+Perform basic arithmetic operations on arrays.
+Relevant Linear Algebra Topic:
+Vectors, scalars, and matrices.
+
+Day 2: Matrix Operations
+
+Topics:
+
+Element-wise operations (addition, subtraction).
+Dot product between two vectors.
+Matrix multiplication (np.dot or @).
+
+Practice:
+
+Implement basic vector operations using NumPy.
+Multiply matrices and vectors using np.dot.
+Relevant Linear Algebra Topic:
+Matrix-vector multiplication, dot product.
+
+Day 3: Matrix Properties
+
+Topics:
+
+Transpose of a matrix (np.transpose or .T).
+Identity matrix (np.eye).
+Diagonal matrix (np.diag).
+
+Practice:
+
+Create a matrix, find its transpose, and work with identity matrices.
+Understand diagonal matrix applications in NumPy.
+Relevant Linear Algebra Topic:
+Transpose, identity matrix, diagonal matrix.
+
+Day 4: Determinant and Inverse of Matrices
+
+Topics:
+
+Determinant of a matrix (np.linalg.det).
+Inverse of a matrix (np.linalg.inv).
+Singular matrices and non-invertibility.
+
+Practice:
+
+Calculate determinants of square matrices.
+Find inverses and understand when they don’t exist.
+Relevant Linear Algebra Topic:
+Matrix determinant, inverse, singular matrices.
+
+Day 5: Eigenvalues and Eigenvectors
+
+Topics:
+
+Eigenvalues and eigenvectors (np.linalg.eig).
+Properties and applications of eigenvalues and eigenvectors.
+
+Practice:
+
+Calculate eigenvalues and eigenvectors for square matrices using NumPy.
+Relevant Linear Algebra Topic:
+Eigenvalues and eigenvectors.
+
+Day 6: Solving Systems of Linear Equations
+
+Topics:
+
+Solving linear equations using np.linalg.solve.
+Representing linear systems as matrix equations (Ax = b).
+
+Practice:
+
+Solve different sets of linear equations using NumPy.
+Relevant Linear Algebra Topic:
+Linear systems, solutions to matrix equations.
+
+Day 7: Singular Value Decomposition (SVD)
+
+Topics:
+
+Singular Value Decomposition (np.linalg.svd).
+Understanding U, Σ (Sigma), and V matrices.
+
+Practice:
+
+Perform SVD on matrices and analyze the output.
+Relevant Linear Algebra Topic:
+SVD and matrix factorization.
+
+Day 8: Norms of Vectors and Matrices
+
+Topics:
+
+Vector norms (np.linalg.norm), including L1 and L2 norms.
+Matrix norms and their applications.
+
+Practice:
+
+Calculate the L1, L2 norms for vectors.
+Compute norms of matrices using NumPy.
+Relevant Linear Algebra Topic:
+
+Vector and matrix norms.
+
+Day 9: Orthogonality and Projections
+
+Topics:
+
+Orthogonal matrices.
+Projection of vectors onto subspaces.
+Gram-Schmidt orthogonalization (optional).
+
+Practice:
+
+Check if matrices are orthogonal.
+Compute vector projections using NumPy.
+Relevant Linear Algebra Topic:
+Orthogonality, projections, subspaces.
+
+Day 10: Practice and Application
+Topics:
+Apply NumPy to solve various linear algebra problems (combining previous topics).
+Review and reinforce topics such as eigenvalues, SVD, and matrix operations.
+Practice:
+Work on practical problems involving matrix decomposition, solving systems of equations, and calculating norms/eigenvalues.
+Use data from real-world examples to apply linear algebra concepts in NumPy.
+Key Focus Areas (aligned with the course):
+Matrix and vector operations (Day 1-3).
+Determinants, inverse, and solving systems (Day 4-6).
+Advanced concepts like eigenvalues, SVD, and norms (Day 7-9).
+Final review and practical application (Day 10).
+By following this 10-day schedule, you can reinforce your understanding of linear algebra concepts using NumPy while progressing through the DeepLearning.AI course.
