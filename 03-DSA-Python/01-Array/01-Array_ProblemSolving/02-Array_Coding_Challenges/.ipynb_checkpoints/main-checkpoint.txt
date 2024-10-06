@@ -1,0 +1,52 @@
+Week 1: Arrays and Strings
+Day 1-2: Arrays
+Concept Learning:
+	•	Learn array basics, operations, and traversal techniques.
+LeetCode Questions:
+	1	Easy:
+	◦	Two Sum - (LeetCode 1)
+	◦	Best Time to Buy and Sell Stock - (LeetCode 121)
+	◦	Maximum Subarray - (LeetCode 53)
+	◦	Remove Duplicates from Sorted Array - (LeetCode 26)
+	◦	Contains Duplicate - (LeetCode 217)
+	2	Medium:
+	◦	Product of Array Except Self - (LeetCode 238)
+	◦	Subarray Sum Equals K - (LeetCode 560)
+	◦	Set Matrix Zeroes - (LeetCode 73)
+Day 3-4: Strings
+Concept Learning:
+	•	Learn string basics, operations, and manipulation techniques.
+LeetCode Questions:
+	1	Easy:
+	◦	Reverse String - (LeetCode 344)
+	◦	Valid Anagram - (LeetCode 242)
+	◦	First Unique Character in a String - (LeetCode 387)
+	◦	Implement strStr() - (LeetCode 28)
+	◦	Longest Common Prefix - (LeetCode 14)
+	2	Medium:
+	◦	Group Anagrams - (LeetCode 49)
+	◦	Longest Substring Without Repeating Characters - (LeetCode 3)
+	◦	Longest Palindromic Substring - (LeetCode 5)
+Day 5-7: Problem Solving and Practice
+Activities:
+	•	Review and solve 15-20 problems from the above list.
+	•	Aim for a mix of easy and medium problems.
+	•	Practice explaining your solutions to ensure you understand the concepts.
+Additional Tips:
+	•	Consistency: Aim to solve at least 3-5 problems each day.
+	•	Discussion: Participate in LeetCode discussions to see different approaches.
+	•	Revision: Regularly review the problems you find difficult to reinforce your understanding.
+By following this plan, you’ll cover a wide range of basic array and string problems in Week 1, setting a strong foundation for more complex topics in the following weeks.
+
+
+7/08/2024 array simple problems to solve
+
+1. Two Sum
+2. Roman to Integer
+3. Palindrome Number
+4. Maximum Subarray
+5. Remove Element
+6. Contains Duplicate
+7. Add Two Numbers
+8. Majority Element
+9. Remove Duplicates from Sorted Array
