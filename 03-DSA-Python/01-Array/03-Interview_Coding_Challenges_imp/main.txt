@@ -1,0 +1,34 @@
+Here are ten commonly asked array-based coding challenges that are frequently encountered in interviews:
+
+
+Two Sum: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+
+Maximum Subarray: Find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+
+Longest Consecutive Sequence: Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
+
+
+Product of Array Except Self: Given an array nums, return an array such that each element at index i of the output array is the product of all the numbers in the input array except nums[i].
+
+
+Rotate Array: Given an array, rotate the array to the right by k steps, where k is non-negative.
+
+
+Find Duplicate Number: Given an array of integers where each integer is between 1 and n (inclusive) where n is the size of the array, find the duplicate number.
+
+
+Container With Most Water: Given an array where each element represents the height of a vertical line, find two lines that together with the x-axis form a container that holds the most water.
+
+
+Merge Intervals: Given a collection of intervals, merge all overlapping intervals.
+
+
+3Sum: Given an array of integers, find all unique triplets in the array which gives the sum of zero.
+
+
+Subarray Sum Equals K: Given an array of integers and an integer k, find the total number of continuous subarrays whose sum equals to k.
+
+
+These challenges cover a range of difficulty levels and are excellent for testing your understanding of arrays and problem-solving skills.
